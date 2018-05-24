@@ -1,0 +1,14 @@
+{
+  "name": "jestarraybuffer",
+  "version": "1.0.0",
+  "description": "A test repo to check an ArrayBuffer problem I have in the perf.html Jest tests on macOS with node 10.0.0",
+  "main": "index.js",
+  "author": "Markus Stange",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
